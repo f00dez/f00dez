@@ -8,6 +8,10 @@
 
 ###
 
+<h4 align="left">Skills:</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
   <img width="12" />
@@ -37,6 +41,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
 </div>
+
+###
+
+<h4 align="left">Social:</h4>
 
 ###
 
