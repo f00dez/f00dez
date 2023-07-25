@@ -54,12 +54,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/f00dez/f00dez/output/snake.svg" alt="Snake animation" />
-
-###
-
 - 🔭 I’m currently looking for **my first job in the IT sector**
 
 - 🌱 I’m currently learning **Data Science**
