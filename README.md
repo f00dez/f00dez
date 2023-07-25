@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 🙋‍♂️ My name is Germán and I'm a passionate data scientist 📊</h2>
+<h2 align="left">Hi 👋! My name is Germán and I'm a passionate data scientist.</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Skills:</h4>
+<h3 align="left">Skills:</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Social:</h4>
+<h3 align="left">Social:</h3>
 
 ###
 
@@ -52,8 +52,8 @@
   <a href="https://www.linkedin.com/in/german-fernandez-corrales/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="german.f.c.3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://tryhackme.com/p/Foodez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://twitter.com/ermanfdez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -64,7 +64,9 @@
 
 - 🔭 I’m currently looking for **my first job in the IT sector**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** in the Data Science Bootcamp by [https://www.linkedin.com/school/hackaboss/](https://www.linkedin.com/school/hackaboss/)
+
+- 🌱 I learnt a lot about **Cybersecurity** in the Red Team Cybersecurity Bootcamp by [https://www.linkedin.com/school/codespaceacademy/](https://www.linkedin.com/school/codespaceacademy/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/f00dez](https://github.com/f00dez)
 
