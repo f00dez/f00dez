@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Germán</h1>
-<h3 align="center">A passionate data scientist from Spain</h3>
+<h3 align="center">A passionate data scientist from Spain.</h3>
 
 - 🔭 I’m currently looking for **my first job in the IT sector**
 
