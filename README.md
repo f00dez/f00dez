@@ -64,12 +64,12 @@
 
 - 🔭 I’m currently looking for **my first job in the IT sector**
 
-- 🌱 I’m currently learning **Data Science** in the Data Science Bootcamp by [Hack A Boss](https://www.linkedin.com/school/hackaboss/)
+- 🌱 I’m currently learning **Data Science** at the Data Science Bootcamp by [Hack A Boss](https://www.linkedin.com/school/hackaboss/)
 
-- 🌱 I learnt a lot about **Cybersecurity** in the Red Team Cybersecurity Bootcamp by [Codespace Academy](https://www.linkedin.com/school/codespaceacademy/)
+- 🌱 I learnt a lot about **Cybersecurity** at the Red Team Cybersecurity Bootcamp by [Codespace Academy](https://www.linkedin.com/school/codespaceacademy/)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/f00dez)
 
 - 📫 How to reach me **german.f.c.3@gmail.com**
 
-- 📄 All my experiences at [LinkedIn](https://www.linkedin.com/in/german-fernandez-corrales/)
+- 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/german-fernandez-corrales/)
