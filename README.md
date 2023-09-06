@@ -61,7 +61,7 @@
 
 - 🔭 I’m currently looking for **my first job in the IT sector**
 
-- 🌱 I’m currently learning **Data Science** at the Data Science Bootcamp by [Hack A Boss](https://www.linkedin.com/school/hackaboss/)
+- 🌱 I’m currently working as a **Data Scientist** at [Hack A Boss](https://www.hackaboss.com)
 
 - 🌱 I learnt a lot about **Cybersecurity** at the Red Team Cybersecurity Bootcamp by [Codespace Academy](https://www.linkedin.com/school/codespaceacademy/)
 
