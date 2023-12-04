@@ -62,6 +62,8 @@
 - 🔭 I’m currently looking for a **job**.
 
 - 🌱 I learnt a lot about **Cybersecurity** at the Red Team Cybersecurity Bootcamp by [Codespace Academy](https://www.linkedin.com/school/codespaceacademy/)
+- 
+- 🌱 I learnt a lot about **Data Science** at the Data Science Bootcamp by [HACK A BOSS](https://www.hackaboss.com)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/f00dez)
 
